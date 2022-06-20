@@ -1,0 +1,10 @@
+[twitter]
+username = your_username
+password = your_password
+name = your_name
+
+[mysql]
+username = your_user
+password = your_password
+hostname = 127.0.0.1
+database = your_database
